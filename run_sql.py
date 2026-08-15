@@ -10,7 +10,7 @@ DATA_DIR = os.path.join(BASE_DIR, 'data', 'processed')
 # Connect to postgres
 print("Connecting to PostgreSQL...")
 try:
-    engine = create_engine("postgresql://postgres:YOUR_PASSWORD@localhost:5432/postgres")
+    engine = create_engine("postgresql://postgres:@bhinav123@localhost:5432/postgres")
     
     with engine.connect() as conn:
         print("Connected successfully!")

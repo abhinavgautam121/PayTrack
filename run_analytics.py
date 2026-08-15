@@ -8,7 +8,7 @@ from sqlalchemy import create_engine, text
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 SQL_DIR = os.path.join(BASE_DIR, 'sql')
 
-engine = create_engine("postgresql://postgres:YOUR_PASSWORD@localhost:5432/postgres")
+engine = create_engine("postgresql://postgres:@bhinav123@localhost:5432/postgres")
 
 # SQL files to run (in order)
 sql_files = [
