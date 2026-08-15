@@ -1,0 +1,21 @@
+Solar PAYG Analytics — Key Performance Indicators
+============================================================
+
+Total Customers                          50,000
+Active Customers                         42,066
+Completed Customers                      1,554
+Defaulted Customers                      6,380
+Total Revenue ($)                        $2,861,578.89
+Total Amount Due ($)                     $3,995,499.26
+Collection Rate (%)                      71.62%
+Default Rate (%)                         12.76%
+Churn Rate (%)                           12.76%
+Avg Days Late                            8.5
+Avg Outstanding Balance ($)              $47.20
+Avg Loan Value ($)                       $122.80
+Customer Acquisition Cost ($)            $11.81
+Revenue per Customer ($)                 $57.23
+On-Time Payment Rate (%)                 66.69%
+Missed Payment Rate (%)                  23.32%
+Avg Delivery Time (days)                 3.5
+Avg Installation Time (days)             2.5
