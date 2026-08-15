@@ -1,4 +1,4 @@
-# Solar PAYG Customer, Credit Risk & Churn Analytics
+# PayTrack - Solar PAYG Customer, Credit Risk & Churn Analytics
 *A professional portfolio project targeted toward the Sun King Analytics & Technology team.*
 
 > **Disclaimer:** This project uses a completely synthetic dataset inspired by the PAYG (Pay-As-You-Go) solar-energy business model. It is not affiliated with, nor does it contain any confidential data from, Sun King.
@@ -12,13 +12,6 @@ This project demonstrates an end-to-end data analytics workflow for a fictional 
 ## 🎯 Business Problem & Objectives
 PAYG solar companies provide off-grid solar products via affordable installment plans. The core business problem is maximizing revenue collection while minimizing defaults and customer churn in an unbanked, off-grid customer base.
 
-**Objectives:**
-* Segment the customer base to tailor collection strategies.
-* Build a Credit Risk Score based on payment behavior.
-* Train a Machine Learning model (Random Forest) to predict churn.
-* Analyze distribution channel ROI and delivery times.
-* Translate analytical findings into actionable business recommendations.
-
 ## 🗄️ Data Architecture & Tools
 * **Synthetic Data Generation:** Python (Pandas, NumPy) — 50,000+ customers, 500,000+ payment records.
 * **Data Storage & ETL:** PostgreSQL / Python (Pandas)
@@ -28,7 +21,7 @@ PAYG solar companies provide off-grid solar products via affordable installment 
 
 ## 📁 Repository Structure
 ```
-solar-payg-analytics/
+PayTrack/
 │
 ├── data/                   # (Not tracked in Git to save space)
 │   ├── raw/                # Generated synthetic CSVs
@@ -61,6 +54,8 @@ solar-payg-analytics/
 │   └── (various .png charts)
 │
 ├── requirements.txt
+├── run_analytics.py
+├── run_sql.py
 └── README.md
 ```
 
