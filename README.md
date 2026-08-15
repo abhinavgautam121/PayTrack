@@ -1,4 +1,4 @@
-# PayTrack - Solar PAYG Customer, Credit Risk & Churn Analytics
+# PayTrack -  PAYG Customer, Credit Risk & Churn Analytics
 *A professional portfolio project targeted toward the Sun King Analytics & Technology team.*
 
 > **Disclaimer:** This project uses a completely synthetic dataset inspired by the PAYG (Pay-As-You-Go) solar-energy business model. It is not affiliated with, nor does it contain any confidential data from, Sun King.
