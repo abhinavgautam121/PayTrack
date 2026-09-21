@@ -1,0 +1,49 @@
+# ========================
+# DATA FILES
+# ========================
+data/*.csv
+data/*.xlsx
+*.csv
+*.xlsx
+
+# ========================
+# PYTHON
+# ========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# ========================
+# VIRTUAL ENVIRONMENTS
+# ========================
+venv/
+env/
+.env/
+.venv/
+
+# ========================
+# JUPYTER NOTEBOOKS
+# ========================
+.ipynb_checkpoints/
+
+# ========================
+# IDE / EDITOR
+# ========================
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# ========================
+# OS
+# ========================
+desktop.ini
+*.lnk
